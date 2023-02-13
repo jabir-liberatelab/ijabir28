@@ -1,12 +1,11 @@
 ## Welcome to Jabir's GitHub
 
 ### Stuff I work with
-![Python](https://github.com/ijabir28/ijabir28/blob/main/images/Python.svg)
-![TensorFlow](https://github.com/ijabir28/ijabir28/blob/main/images/TensorFlow.svg)
-![Pytorch](https://github.com/ijabir28/ijabir28/blob/main/images/Pytorch.svg)
-![Numpy](https://github.com/ijabir28/ijabir28/blob/main/images/Numpy.svg)
-![Jupyter](https://github.com/ijabir28/ijabir28/blob/main/images/Jupyter.svg)
-![Scikit-learn](https://github.com/ijabir28/ijabir28/blob/main/images/Scikit-learn.svg)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="150"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="150"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="150"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="150"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="150"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="150">
+
+<img src="https://github.com/ijabir28/ijabir28/blob/main/images/Python.svg" width="150"><img src="https://github.com/ijabir28/ijabir28/blob/main/images/TensorFlow.svg" width="150"><img src="https://github.com/ijabir28/ijabir28/blob/main/images/Pytorch.svg" width="150"><img src="https://github.com/ijabir28/ijabir28/blob/main/images/Numpy.svg" width="150"><img src="https://github.com/ijabir28/ijabir28/blob/main/images/Scikit-learn.svg" width="150"><img src="https://github.com/ijabir28/ijabir28/blob/main/images/Jupyter.svg" width="150">
+
 
 <!--
 **ijabir28/ijabir28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
