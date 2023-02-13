@@ -1,4 +1,12 @@
-### Hi there 👋
+## Welcome to Jabir's GitHub
+
+### Stuff I work with
+![Python](https://github.com/ijabir28/ijabir28/blob/main/images/Python.svg)
+![TensorFlow](https://github.com/ijabir28/ijabir28/blob/main/images/TensorFlow.svg)
+![Pytorch](https://github.com/ijabir28/ijabir28/blob/main/images/Pytorch.svg)
+![Numpy](https://github.com/ijabir28/ijabir28/blob/main/images/Numpy.svg)
+![Jupyter](https://github.com/ijabir28/ijabir28/blob/main/images/Jupyter.svg)
+![Scikit-learn](https://github.com/ijabir28/ijabir28/blob/main/images/Scikit-learn.svg)
 
 <!--
 **ijabir28/ijabir28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
