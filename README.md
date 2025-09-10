@@ -1,26 +1,27 @@
-# Hey, I’m Jabir 👋  
+# Hey, I’m Jabir 👋
 
-💻 **Full-Stack Software Engineer** | 🌍 Dhaka, Bangladesh  
+💻 **Full-Stack Software Engineer | Node.js | React.js | 🌍 Dhaka, Bangladesh**  
 
-I’m a passionate developer with **3 years of professional experience**, currently working at **ShareTrip Ltd.** I specialize in **Node.js, NestJS, and React.js** to build scalable and user-friendly applications. Beyond web development, I also explore **machine learning** with projects in Bangla ASR and digital services like Muallim.  
-
----
-
-## 🧑‍💻 About Me
-- 🔹 Experienced in **backend development** (NestJS, Express.js, SailsJS, Node.js)  
-- 🔹 Skilled in building **frontend apps** with React.js and Next.js  
-- 🔹 Hands-on with **databases & storage** (MongoDB, MySQL, Redis, TypeORM, Sequelize)  
-- 🔹 Strong foundation in **machine learning** (PyTorch, TensorFlow, Scikit-learn)  
-- 🔹 Team player with experience in **agile environments** (Jira, Trello, Notion, Slack)  
+I’m **Jabir**, a full-stack developer with **3 years of professional experience**, currently at **Liberate Labs**. I build scalable backend services (**Node.js**) and responsive frontend apps (**React.js, Next.js**), with experience in **MongoDB, MySQL, Redis**.
 
 ---
 
-## 🛠️ Technical Skills
-**Languages:** JavaScript, TypeScript, Python, Java, C, C++, SQL, HTML  
-**Frameworks & Libraries:** NestJS, Express.js, React, SailsJS  
-**Databases:** MongoDB, MySQL, Redis  
-**ML/AI Tools:** PyTorch, TensorFlow, Pandas, NumPy  
-**Others:** Docker, Git, REST APIs, JWT, CI/CD, Jira, Notion  
+## 🛠️ Technologies & Tools
+
+### **Frontend**
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/HTML5_logo_and_wordmark.svg" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50" height="50"/>
+
+### **Backend**
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="50" height="50"/> <img src="https://nestjs.com/img/logo_text.svg" width="120" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Sails.js_logo.png" width="50" height="50"/>
+
+### **Databases & Storage**
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="50" height="50"/> <img src="https://redis.io/images/redis-white.png" width="50" height="50"/>
+
+### **Machine Learning / AI**
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/PyTorch_logo_icon.svg" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Scikit_learn_logo.svg" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Pandas_logo.svg" width="50" height="50"/> <img src="https://numpy.org/images/logo.svg" width="50" height="50"/>
+
+### **Others / DevOps**
+<img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="50" height="50"/> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/REST_API_logo.png" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/JWT_logo.svg" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Jira_software_logo.svg" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Notion_app_logo.png" width="50" height="50"/>
 
 ---
 
@@ -31,12 +32,9 @@ I’m a passionate developer with **3 years of professional experience**, curren
 ---
 
 ## 💼 Professional Experience
-**Software Engineer – ShareTrip Ltd.**  
-*(Mar 2023 – Mar 2025)*  
-- Built and optimized the **flight service back-end**.  
-- Integrated subscriptions for products like **TripAdd, TripOn, Travel Shield**.  
-- Contributed to features such as **Shop, Vouchers, Mobile Recharge, and Pay Bill**.  
-- Automated **customer engagement email systems**.  
+**Software Engineer – ShareTrip Ltd.** *(Mar 2023 – Mar 2025)*  
+- Built and optimized flight service backend.  
+- Integrated subscription products and automated customer engagement systems.  
 - Maintained and documented backend APIs.  
 
 **Associate – Quantanite (2020)**  
@@ -50,17 +48,9 @@ I’m a passionate developer with **3 years of professional experience**, curren
 
 ---
 
-## 🎓 Education
-**B.Sc. in Computer Science & Engineering (2022)**  
-North South University, Dhaka, Bangladesh  
-
-Relevant Coursework: Machine Learning, Pattern Recognition, AI, Software Engineering  
-
----
-
-## 📜 Certifications
-- **Mobile Application Development (Android)** – NASSCOM IT-ITES SSC  
-- **The Hour of Code** – Code.org  
+## 📊 GitHub Stats
+![Jabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabir-liberatelab&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jabir-liberatelab&layout=compact&theme=radical)  
 
 ---
 
@@ -71,7 +61,8 @@ Relevant Coursework: Machine Learning, Pattern Recognition, AI, Software Enginee
 
 ---
 
-✨ *Always curious, always building — let’s collaborate on something impactful!*  
+✨ *Always curious, always building — let’s collaborate on something impactful!*
+
 
 
 
